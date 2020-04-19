@@ -12,7 +12,7 @@ Allow Media Delation MUST be enabled in Plex Server Settings
 Created to work with Sonarr and Radarr
 
 Under Settings - Connections
-    Create a New Webhook
-	Enable On Download, On Upgrade and On Rename
-	URL = URL-OF-HOST:32500
-	METHOD = POST
+    Create a New Webhook</br>
+    Enable On Download, On Upgrade and On Rename</br>
+    URL = URL-OF-HOST:32500</br>
+    METHOD = POST
