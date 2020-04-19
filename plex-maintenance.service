@@ -1,0 +1,11 @@
+[Unit]
+Description=Plex Maintenance
+After=network.target
+
+[Service]
+User=plex
+WorkingDirectory=/mnt/Applications/plex-maintenance/
+ExecStart=uwsgi --ini plex-maintenance.ini
+
+[Install]
+WantedBy=multi-user.target

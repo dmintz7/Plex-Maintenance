@@ -1,0 +1,11 @@
+log_folder = PATH-TO-LOG-FOLDER
+movie_section_id=PLEX-MOVIE-SECTION-ID
+tv_section_id=PLEX-TV-SECTION-ID
+
+plex_host=PLEX-HOST
+plex_api=""
+plex_media_scanner_path=PATH-TO-PLEX-MEDIA-SCANNER
+
+remote_sodarr=ENABLE-REMOTE-PATH-FOR-SONARR-AND-RADARR
+from_path=""
+to_path=""
