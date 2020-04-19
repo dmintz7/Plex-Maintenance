@@ -2,7 +2,7 @@
  
 Scans New Media to Plex Media Server. 
 
-If duplicates are discovered and the one file no longer exists, it will remove the non-exist media from Plex
+If duplicates are discovered and the one or more of the files no longer exists, it will remove the non-exist media from Plex
 
 Created to work with Sonarr and Radarr
 
